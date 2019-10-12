@@ -1,0 +1,33 @@
+.red-background {
+  background-color: #ED574A;
+  color: white;
+  padding: 50px 0 50px 0;
+
+}
+
+/* .sec-title {
+  padding-left: 205px;
+} */
+
+.background-section {
+  background-color: #424543;
+  color: white;
+}
+
+.footer-background {
+  background-color: black;
+  color: white;
+  font-size: 12px;
+  margin: auto;
+}
+
+.img {
+  -webkit-filter: grayscale(100%);
+  filter: grayscale(100%);
+  /* background-image: url("/starter-code/img/overlay.png"); */
+}
+
+/* .text-alignment {
+  display: flex;
+  align-content: center;
+} */
